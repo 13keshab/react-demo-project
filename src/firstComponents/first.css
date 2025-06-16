@@ -1,0 +1,17 @@
+.f-con {
+  border: solid 5px rgb(78, 238, 29);
+  text-align: center;
+  height: 30vh;
+  padding: 10px;
+  background-color: rgb(171, 230, 210);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+.img-stl {
+  height: 180px;
+  width: 200px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  box-shadow: 6px 6px;
+}
